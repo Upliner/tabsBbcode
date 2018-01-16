@@ -62,11 +62,9 @@ margin-right:35px;
 /* clickable tab titles */
 .tabmenu_ul li a,.tabmenu_ul li a:link {
 background: url(images/tabhg.jpg);
-padding:7px;
 padding-left:9px;
 padding-right:9px;
 margin-left: -29px;
-height: 27px;
 border:1px solid #b4c9db;
 box-shadow: 1px 1px 1px #4797df, -1px 1px 1px #4797df, 1px -1px 1px #4797df, -1px -1px 1px #4797df;
 -moz-box-shadow: 0px 1px 0px #4797df, 0px 1px 1px #4797df, 0px -0px 0px, -0px -0px 0px;
@@ -76,11 +74,9 @@ text-decoration: none;
 }
 
 .tabmenu_ul li a:hover {
-padding:7px;
 padding-left:9px;
 padding-right:9px;
 margin-left: -29px;
-height: 27px;
 border:1px solid #b4c9db;
 box-shadow: 1px 1px 1px #4797df, -1px 1px 1px #4797df, 1px -1px 1px #4797df, -1px -1px 1px #4797df;
 -moz-box-shadow: 0px 1px 0px #4797df, 0px 1px 1px #4797df, 0px -0px 0px, -0px -0px 0px;
@@ -103,7 +99,6 @@ text-decoration: none;
 
 /* wraps all tab content (after <ul>) */
 .tabcontent_wrapper {
-background: #ffffff;
 border:1px solid #b4c9db;
 box-shadow: 1px 1px 1px #4797df, -1px 1px 1px #4797df, 1px -1px 1px #4797df, -1px -1px 1px #4797df;
 -moz-box-shadow: 0px 1px 0px #4797df, 0px 1px 1px #4797df, 0px -0px 0px, -0px -0px 0px;
